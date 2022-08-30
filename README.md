@@ -103,7 +103,7 @@ Versão Mobile
 
 ## Autor
 
-GitHub - <a href="https://github.com/julio-mansan2"julio-mansan2</a> <br>
+GitHub - <a href="https://github.com/julio-mansan2">julio-mansan2</a> <br>
 Front-end Mentor - <a href="https://www.frontendmentor.io/profile/julio-mansan2">julio-mansan2</a> <br>
 
 
