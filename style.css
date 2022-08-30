@@ -5,12 +5,12 @@ html {
 }
 
 div {
-    padding: 20px;
+    padding: 20px 10px;
     height: 490px;
-    width: 300px;
+    width: 350px;
     text-align: center;
     background-color: #ffffff;
-    border: 29px;
+    border: 15px;
     border-radius: 20px;
     position: absolute;
     margin: auto;
@@ -22,13 +22,13 @@ div {
 }
 
 .qr-code-imagem {
-    width: 250px;
-    height: 250px;
+    width: 270px;
+    height: 270px;
     border-radius: 15px;
 }
 
 h1 {
-    margin: 20px;
+    margin: 25px;
     color: #00008b ;
     font: 700 20px 'Outfit', monospace;
 
