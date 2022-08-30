@@ -35,7 +35,7 @@ Versão Mobile
 
 ### Link
 
-- Página no GitHub Pages: <a href="https://julio-mansan2.github.io/qr-code/" target=_blank>Clique aqui!</a>
+- Página no GitHub Pages: <a href="https://julio-mansan2.github.io/qr-code/">Clique aqui!</a>
 
 ## Processo
 
@@ -103,8 +103,8 @@ Versão Mobile
 
 ## Autor
 
-GitHub - <a href="https://github.com/julio-mansan2" target=_blank>julio-mansan2</a> <br>
-Front-end Mentor - <a href="https://www.frontendmentor.io/profile/julio-mansan2" target=_blank>julio-mansan2</a> <br>
+GitHub - <a href="https://github.com/julio-mansan2"julio-mansan2</a> <br>
+Front-end Mentor - <a href="https://www.frontendmentor.io/profile/julio-mansan2">julio-mansan2</a> <br>
 
 
 
