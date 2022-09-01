@@ -4,10 +4,13 @@ html {
     background-color: #d3d3d3 ;
 }
 
-div {
+main {
     padding: 10px;
     height: 490px;
-    width: 300px;
+    width: 290px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
     text-align: center;
     background-color: #ffffff;
     border: 15px;
